@@ -1,4 +1,4 @@
-# GRIP-SPARKS-TSF-INTERNSHIP
+# GRIP-TSF-INTERNSHIP
 August 2020 Batch
 
 1. TASK 2: To Explore Supervised Machine Learning
